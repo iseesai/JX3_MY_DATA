@@ -1,7 +1,7 @@
 {
   "name": "DBM-双剑花花萌5",
   "author": "双剑花花萌5，我不是作者。",
-  "version": "4396",
+  "version": "4397",
   "data_url": "./data.jx3dat",
-  "about": "../README.md"
+  "about": "./data.jx3dat"
 }
