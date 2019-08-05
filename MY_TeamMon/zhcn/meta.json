@@ -1,7 +1,7 @@
 {
-  "name": "DBM-双剑花花萌5",
-  "author": "双剑花花萌5，我不是作者。",
-  "version": "4397",
+  "name": "一次测试上传，数据是四处搜集的也不知道是否正确，作者不是我。有正版请支持正版。",
+  "author": "李忘生",
+  "version": "2.0.0",
   "data_url": "./data.jx3dat",
-  "about": "./data.jx3dat"
+  "about": "../README.md"
 }
